@@ -3,11 +3,14 @@
 
 ## You can find me on
 
-[![Patrick Guo's Linkedin Profile](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/patrickguo)
+<p align='center'>
+[![Patrick Guo's Linkedin Profile](https://i.stack.imgur.com/gVE0j.png =50x)](https://www.linkedin.com/in/patrickguo/)
 
-[![Patrick Guo's GitHub Profile](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shpatrickguo)
+[![Patrick Guo's GitHub Profile](https://i.stack.imgur.com/tskMh.png =50x)](https://github.com/shpatrickguo)
 
-[![Patrick Guo's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/shpatrickguo)
+[![Patrick Guo's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =50x)](https://dev.to/shpatrickguo)
+</p>
+
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
