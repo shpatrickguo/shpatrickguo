@@ -27,7 +27,7 @@ My name is Patrick Guo.
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpatrickguo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpatrickguo&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
