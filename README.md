@@ -1,19 +1,23 @@
-## Nice to meet you! 👋
-
+## Nice to meet you! <img src="https://raw.githubusercontent.com/shpatrickguo/shpatrickguo/master/wave.gif" width="30px">
+My name is Patrick Guo.
 
 ## You can find me on
 
-<p align='center'>
 [![Patrick Guo's Linkedin Profile](https://i.stack.imgur.com/gVE0j.png =50x)](https://www.linkedin.com/in/patrickguo/)
 
 [![Patrick Guo's GitHub Profile](https://i.stack.imgur.com/tskMh.png =50x)](https://github.com/shpatrickguo)
 
 [![Patrick Guo's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =50x)](https://dev.to/shpatrickguo)
-</p>
+
 
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
 
 
 
