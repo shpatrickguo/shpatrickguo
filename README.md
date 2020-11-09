@@ -1,16 +1,13 @@
-<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width=100%>
-
-<p align="center">
+<p align="right">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
 
-## Connect with me
+<img align="center" src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=55%>
 <p align="center">
 <a href="https://linkedin.com/in/patrickguo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrickguo" height="30" width="40" /></a>
 <a href="https://fb.com/guopatrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guopatrick" height="30" width="40" /></a>
- <a href="https://twitter.com/Xerxes3301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guopatrick" height="30" width="40" /></a>
 </p>
 
 ## Technologies & Tools
@@ -42,18 +39,4 @@
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-
-<details>
-<summary align="center">Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shpatrickguo&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details> 
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=12136002437&cover_image=true&theme=default">
-<p>
-
-
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" >
