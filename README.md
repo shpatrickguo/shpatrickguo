@@ -1,4 +1,5 @@
-<img src="https://github.com/shpatrickguo/shpatrickguo/blob/main/header.png">
+<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width=100%>
+
 <p align="center">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
