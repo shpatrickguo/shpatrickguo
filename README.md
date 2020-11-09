@@ -78,9 +78,14 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shpatrickguo&show_icons=true&locale=en&layout=compact" alt="shpatrickguo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&locale=en" alt="shpatrickguo" /></p>
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shpatrickguo&show_icons=true&locale=en&layout=compact" alt="shpatrickguo" />
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&locale=en" alt="shpatrickguo" />
+</p>
+</details> 
 
 
 <!--START_SECTION:waka-->
