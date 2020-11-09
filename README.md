@@ -51,7 +51,9 @@
 </p>
 </details> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12136002437&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=12136002437&cover_image=true&theme=default">
 
 
 
