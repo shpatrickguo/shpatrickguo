@@ -1,5 +1,7 @@
 ## Nice to meet you! <img src="https://raw.githubusercontent.com/shpatrickguo/shpatrickguo/master/wave.gif" width="30px">
-Hi, my name is Patrick Guo. I'm a project collaborator for @IPTE
+Hi, my name is Patrick Guo.
+
+CURRENTLY TRYING TO DECORATE README PAGE. SO A LOT OF STUFF IN PROGRESS
 
 <p align="center">
   <a href="#">
