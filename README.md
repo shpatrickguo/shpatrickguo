@@ -1,16 +1,10 @@
 <img src="https://github.com/shpatrickguo/shpatrickguo/blob/main/header.png">
 
-
-CURRENTLY TRYING TO DECORATE README PAGE. SO A LOT OF STUFF IN PROGRESS
-
 <p align="center">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
-
-![Visitor Count](https : //profile-counter.glitch.me/{shpatrickguo}/count.svg)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/shpatrickguo)](https://badges.pufler.dev)
 
 ## You can find me on
 
