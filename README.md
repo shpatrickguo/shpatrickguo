@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/Xerxes3301%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/r2miss%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+<img src="https://img.shields.io/badge/r2miss#0051%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/xerxes#3301%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/r2miss%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 </p>
 
 ## Technologies & Tools
