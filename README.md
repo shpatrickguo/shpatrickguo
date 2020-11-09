@@ -76,14 +76,12 @@
 <img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 
-## &#x1f4c8; GitHub Stats
-
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary><h2>Click for GitHub Stats</h2></summary>
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shpatrickguo&show_icons=true&locale=en&layout=compact" alt="shpatrickguo" />
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&locale=en" alt="shpatrickguo" />
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shpatrickguo&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details> 
 
