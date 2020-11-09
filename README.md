@@ -1,10 +1,12 @@
-<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif">
-
+<img src="https://github.com/shpatrickguo/shpatrickguo/blob/main/header.png">
 <p align="center">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
+
+<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif">
+
 
 ## You can find me on
 
