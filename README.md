@@ -12,7 +12,6 @@
   <a href="https://fb.com/guopatrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guopatrick" height="30" width="40" /></a>
 </p>
 
-## Technologies & Tools
 <p align="center">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
