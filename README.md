@@ -77,7 +77,7 @@
 <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 
 <details>
-<summary><h2>Click for GitHub Stats</h2></summary>
+<summary>Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
