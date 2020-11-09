@@ -5,9 +5,7 @@
    </a>
 </p>
 
-<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif">
-
-<h3 align="center">Connect with me:</h3>
+## Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/patrickguo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrickguo" height="30" width="40" /></a>
 <a href="https://fb.com/guopatrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guopatrick" height="30" width="40" /></a>
@@ -45,7 +43,7 @@
 
 
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary align="center">Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
