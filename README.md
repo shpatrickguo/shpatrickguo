@@ -43,6 +43,9 @@ CURRENTLY TRYING TO DECORATE README PAGE. SO A LOT OF STUFF IN PROGRESS
 
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **shpatrickguo/shpatrickguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
