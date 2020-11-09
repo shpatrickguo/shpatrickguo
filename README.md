@@ -1,5 +1,11 @@
 ## Nice to meet you! <img src="https://raw.githubusercontent.com/shpatrickguo/shpatrickguo/master/wave.gif" width="30px">
-My name is Patrick Guo.
+Hi, my name is Patrick Guo. I'm a project collaborator for @IPTE
+
+<p align="center">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 
 ## You can find me on
 
@@ -21,7 +27,6 @@ My name is Patrick Guo.
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code-idea&logoColor=white&color=2bbc8a)
 
