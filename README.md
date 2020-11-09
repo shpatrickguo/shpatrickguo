@@ -1,4 +1,4 @@
-<img src="https://github.com/shpatrickguo/shpatrickguo/blob/main/header.png">
+<img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif">
 
 <p align="center">
   <a href="#">
