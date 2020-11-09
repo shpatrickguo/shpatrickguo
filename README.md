@@ -3,7 +3,7 @@ Hi, my name is Patrick Guo. I'm a project collaborator for @IPTE
 
 <p align="center">
   <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
 
