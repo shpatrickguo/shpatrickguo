@@ -41,6 +41,5 @@
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&hide_title=true&text_color=555&count_private=true" >
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shpatrickguo&v=2" >
 </p>
-
-[![Patrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shpatrickguo&v=2)](https://github.com/anuraghazra/github-readme-stats)
