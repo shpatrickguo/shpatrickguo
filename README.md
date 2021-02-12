@@ -4,6 +4,10 @@
    </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
+</p>
+
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -16,9 +20,7 @@
   <img alt="firebase" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
