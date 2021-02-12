@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
