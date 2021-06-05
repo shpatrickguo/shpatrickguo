@@ -8,8 +8,11 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
 </p>
 
+<!-- Socials (Icons from https://icons8.com/) -->
 <p align="center">
-  <img src="https://img.icons8.com/doodle/96/000000/github--v1.png"/>
+  <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png"/>
+  <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/48/000000/spotify.png"/>
+  <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/>
 </p>
 
 <!-- Gifs found on GIPHY made by @devrock -->
@@ -23,8 +26,6 @@
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100">
 </p>
-
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
