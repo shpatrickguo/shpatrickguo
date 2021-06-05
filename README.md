@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
 </p>
 
+<p align="center">
+  <img src="https://img.icons8.com/doodle/96/000000/github--v1.png"/>
+</p>
+
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
