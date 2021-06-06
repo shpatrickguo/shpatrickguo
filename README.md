@@ -30,12 +30,12 @@
 
 <!-- Other Tools -->
 <p align="center">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px">></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px">></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript.svg" width="30px">></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px">></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git.svg" width="30px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 </p>
 
