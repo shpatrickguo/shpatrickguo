@@ -1,11 +1,11 @@
 <p align="right">
   <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
    </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50%>
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>
 
 <!-- Socials (Icons from https://icons8.com/) -->
