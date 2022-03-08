@@ -13,8 +13,9 @@
   <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
   <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
   <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
+  <a href="https://www.hackerrank.com/guopatrick"><img src="https://img.icons8.com/doodle/96/000000/hackerrank.png" title="github">
+    
   <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" title="spotify">
-  <a href="https://github.com/shpatrickguo/shpatrickguo">
 </p>
 
 <!-- Gifs found on GIPHY made by @devrock -->
