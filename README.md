@@ -13,7 +13,7 @@
   <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
   <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
   <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="100" title="github">
-  <a href="https://www.hackerrank.com/guopatrick"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eiiuu&psig=AOvVaw1bepUjlbJmmTH_q2ZlnEVC&ust=1646791058902000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj0hPO0tfYCFQAAAAAdAAAAABAD" width="100" title="hackerrank">
+  <a href="https://www.hackerrank.com/guopatrick"><img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">
   <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">
 </p>
 
