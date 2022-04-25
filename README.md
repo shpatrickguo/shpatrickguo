@@ -34,7 +34,7 @@
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50px" title="jupyter"></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="50px" title="django"></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django.svg" width="50px" title="django"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" title="aws"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="postgresql"></span>
