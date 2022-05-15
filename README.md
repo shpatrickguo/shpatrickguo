@@ -1,3 +1,5 @@
+<h1 align="center">Hi there! My name is Patrick Guo, thank you for visitign my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 <p align="right">
   <a href="#">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
