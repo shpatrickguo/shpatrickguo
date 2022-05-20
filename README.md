@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=300px title="Hi, nice to meet you!">
 </p>
 
 <!-- Socials (Icons from https://icons8.com/) -->
