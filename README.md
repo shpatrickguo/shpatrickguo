@@ -20,9 +20,9 @@
   <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="100" title="github">
 </p>
 -->
-
+<p align="center">
 [![gmail](https://img.icons8.com/doodle/96/000000/gmail-new.png)](mailto:guopatrick.correspondence@gmail.com)
-
+</p>
 
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
