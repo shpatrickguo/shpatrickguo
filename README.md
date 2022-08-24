@@ -10,20 +10,13 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
-<!-- Socials (Icons from https://icons8.com/) 
+<!-- Socials (Icons from https://icons8.com/) -->
 <p align="center">
-  <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
+  [<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:guopatrick.correspondence@gmail.com)
   <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
   <a href="https://www.datacamp.com/profile/shpatrickguo"><img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">
   <a href="https://www.hackerrank.com/guopatrick"><img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">
 </p>
--->
-
-[![gmail](https://img.icons8.com/doodle/96/000000/gmail-new.png){:width="100px"}](mailto:guopatrick.correspondence@gmail.com)
-[![linkedin](https://img.icons8.com/doodle/96/000000/linkedin-circled.png){:width="100px"}](https://www.linkedin.com/in/patrickguo/)
-[![datacamp](https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw){:width="100px"}](https://www.datacamp.com/profile/shpatrickguo/)
-[![tableau](img/tableau.png){width="100px"}](https://public.tableau.com/app/profile/patrick.guo)
-[![hackerrank](https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png){:width=100}](https://www.hackerrank.com/guopatrick)
 
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
