@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! My name is Patrick Guo, thanks for visiting my profile :D</h1>
+<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
 <p align="right">
   <a href="#">
