@@ -1,3 +1,4 @@
+name: generate animation
 
 on:
   # run automatically every 6 hours
@@ -11,8 +12,6 @@ on:
   push:
     branches:
     - master
-    
-  
 
 jobs:
   generate:
@@ -37,4 +36,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
