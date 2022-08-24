@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
-<!-- Socials (Icons from https://icons8.com/) -->
+<!-- Socials (Icons from https://icons8.com/) 
 <p align="center">
   <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
   <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
@@ -19,6 +19,7 @@
   <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">
   <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="100" title="github">
 </p>
+-->
 
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
