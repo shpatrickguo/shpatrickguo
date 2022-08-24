@@ -21,7 +21,7 @@
 </p>
 -->
 
-![gmail](https://img.icons8.com/doodle/96/000000/gmail-new.png)
+[![gmail](https://img.icons8.com/doodle/96/000000/gmail-new.png)](mailto:guopatrick.correspondence@gmail.com)
 
 
 <!-- Gifs found on GIPHY made by @devrock -->
