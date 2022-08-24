@@ -51,3 +51,6 @@
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
 </p>
+
+<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
