@@ -53,4 +53,4 @@
 </p>
 
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shpatrickguo/shpatrickguo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
