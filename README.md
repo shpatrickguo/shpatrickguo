@@ -22,6 +22,7 @@
 -->
 
 <p align="center">
+![gmail](https://img.icons8.com/doodle/96/000000/gmail-new.png){ width=100}
 </p>
 
 <!-- Gifs found on GIPHY made by @devrock -->
