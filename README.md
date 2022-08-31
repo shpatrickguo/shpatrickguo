@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU" width=500px title="Welcome">
+  <img src="https://tenor.com/view/coding-gif-18655255" width=500px title="Welcome">
   <!--
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
   -->
 </p>
+
 
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
