@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
-<p align="right">
-     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
