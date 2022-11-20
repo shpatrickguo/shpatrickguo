@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
 <p align="right">
-  <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
-   </a>
+     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
 </p>
 
 <p align="center">
