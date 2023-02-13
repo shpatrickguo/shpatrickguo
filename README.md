@@ -13,7 +13,7 @@
 [<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
 [<img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">](https://www.hackerrank.com/guopatrick)
 [<img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">](https://open.spotify.com/user/12136002437?si=4e8d774530354a68)
-[<img src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/transparent%20logo.png" width="100" title="kaggle">](https://www.kaggle.com/shpatrickguo)
+[<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">](https://www.kaggle.com/shpatrickguo)
 
 <p align="left">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
