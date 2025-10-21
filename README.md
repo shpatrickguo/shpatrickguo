@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
+[![An image of @shpg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shpg)](https://holopin.io/@shpg)
+
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
 [<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:guopatrick.correspondence@gmail.com)
