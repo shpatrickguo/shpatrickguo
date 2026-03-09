@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+<h1 align="center">Hi! :D</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
@@ -38,9 +38,15 @@
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
 -->
-<p align="center">
+<div align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
+</div>
+
+<div align="center">
+    <a href="https://git.io/streak-stats" >
+        <img src="https://streak-stats.demolab.com/?user=shpatrickguo&theme=dark"  />
+    </a>
+</div>
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
