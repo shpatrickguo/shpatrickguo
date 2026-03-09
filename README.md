@@ -14,9 +14,7 @@
 [<img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">](https://www.hackerrank.com/guopatrick)
 [<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">](https://www.kaggle.com/shpatrickguo)
 
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=shpatrickguo&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&card_height=180)](https://git.io/streak-stats)
-</p>
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
