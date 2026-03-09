@@ -8,7 +8,6 @@
 
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:guopatrick.correspondence@gmail.com)
 [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/patrickguo/)
 [<img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">](https://www.datacamp.com/profile/shpatrickguo)
 [<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
@@ -42,11 +41,7 @@
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
 </div>
 
-<div align="center">
-    <a href="https://git.io/streak-stats" >
-        <img src="https://streak-stats.demolab.com/?user=shpatrickguo&theme=dark"  />
-    </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shpatrickguo&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&card_height=180)](https://git.io/streak-stats)
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
